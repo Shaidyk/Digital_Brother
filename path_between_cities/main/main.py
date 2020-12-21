@@ -1,4 +1,4 @@
-from path_between_cities.matrix import Matrix
+from matrix import Matrix
 
 """Number of tests"""
 while True:
